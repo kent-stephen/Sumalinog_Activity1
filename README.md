@@ -23,4 +23,4 @@ I added a drop-down menu that will be used to choose from 3 different categories
 
 **Path**
 
-![image](https://user-images.githubusercontent.com/95534475/204087081-3e44787b-b85e-496a-9844-8d51794896db.png)
+![image](https://user-images.githubusercontent.com/95534475/204088290-4e2c4580-7594-469c-bc4b-b4197a88d14d.png)
